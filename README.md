@@ -1,5 +1,5 @@
 # Gift-for-bff
-Memories Forever🥺
+Memories Forever🥺(A gift for my Best Friend)
 
 Celebrate the bond of friendship and create a lasting tribute for your best friend like "Memories Forever" a heartfelt project crafted with love using HTML, CSS, and JS, made for my bestfriend. This special website is designed to commemorate his birthday and showcase the cherished memories we've shared throughout our journey together.
 
